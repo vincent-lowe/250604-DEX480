@@ -1,17 +1,15 @@
-#### DEX480 - DataWeave - YYMMDD - TZ
+#### DEX480 - DataWeave - 260604 - PDT
 
-Instructor Name
+Instructor Name: Vincent Lowe
 
-instructor@salesforce.com
+vlowe@salesforce.com
 
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:			https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:			   XXXXXX
-
 Salesforce Mimeo:		      https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:		USZZZZZZZZZZ
+eBook Redemption Key:		USHITEQQT9LW
 
 virtual machine: https://use.cloudshare.com/Class/b61dp
 
@@ -20,7 +18,7 @@ passphrase: Sakura the Cute Ladybug
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:			https://www.research.net/r/trailheadacademy
 
-Survey ID:				XXXXXXX
+Survey ID:				TASM-2138966
 
 -------------------------------------------------------------------------------------------------------------------
 Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX480
@@ -60,6 +58,8 @@ Classroom Playlist
 
 |Track Title|Artist|Notes|
 |-----------|------|-----|
+|Fanfare for the Common Man|Aaron Copeland||
+|Night Rider's Lament|Nanci Griffith||
 
 
 
