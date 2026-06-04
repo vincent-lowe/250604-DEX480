@@ -61,7 +61,7 @@ Classroom Playlist
 |Fanfare for the Common Man|Aaron Copeland||
 |Night Rider's Lament|Nanci Griffith||
 |My Rifle, Pony, and Me|Dean Martin and Rick Nelson|from the movie Rio Bravo|
-
+|Smooth Criminal|Luca Stricagnoli|Instrumenta cover of Michael Jackson song|
 
 
 
