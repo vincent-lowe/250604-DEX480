@@ -13,6 +13,10 @@ Salesforce Mimeo:		      https://salesforce.mimeo.digital/MuleSoft
 
 eBook Redemption Key:		USZZZZZZZZZZ
 
+virtual machine: https://use.cloudshare.com/Class/b61dp
+
+passphrase: Sakura the Cute Ladybug
+
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:			https://www.research.net/r/trailheadacademy
 
