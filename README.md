@@ -65,5 +65,5 @@ Classroom Playlist
 |Gilligan's Island|Classic TV themes||
 |Feeling Good|Nina Simone||
 |How Can You Mend a Broken Heart|Al Green|Bee Gees cover|
-
-
+|Pickup Truck Song|Jerry Jeff Walker||
+|Man of Constant Sorrow|Geoff Castellucci|
