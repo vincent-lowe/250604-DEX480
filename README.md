@@ -62,6 +62,8 @@ Classroom Playlist
 |Night Rider's Lament|Nanci Griffith||
 |My Rifle, Pony, and Me|Dean Martin and Rick Nelson|from the movie Rio Bravo|
 |Smooth Criminal|Luca Stricagnoli|Instrumenta cover of Michael Jackson song|
+|Gilligan's Island|Classic TV themes||
+|Feeling Good|Nina Simone||
 
 
 
