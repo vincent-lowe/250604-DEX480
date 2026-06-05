@@ -64,6 +64,6 @@ Classroom Playlist
 |Smooth Criminal|Luca Stricagnoli|Instrumenta cover of Michael Jackson song|
 |Gilligan's Island|Classic TV themes||
 |Feeling Good|Nina Simone||
-
+|How Can You Mend a Broken Heart|Al Green|Bee Gees cover|
 
 
